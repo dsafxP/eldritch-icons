@@ -9,12 +9,19 @@ Eldritch is a community-driven dark theme inspired by Lovecraftian horror. With 
 Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 
 ### Showcase
-<!-- Your screenshot should go here -->
-<img src="screenshot.png" alt="Screenshot"/><br/>
+
+#### [Archdroid](https://github.com/GreenRaccoon23/archdroid-icon-theme)
+
+<img src=".github/01.svg" alt="Archdroid" width=300/><br/>
+
+#### [Suru](https://github.com/snwh/suru-icon-theme)
+
+<img src=".github/02.svg" alt="Suru" width=300/><br/>
 
 ### Installation
-1. Any instructions on how to install here
 
-<!-- If you want to provide install from source options, you can use the following template: -->
-<!-- ### Installation From Source -->
-<!-- 1. Any instructions here -->
+1. Download the archive of your preferred palette and set from releases
+2. Extract into `~/.local/share/icons/`
+   ```sh
+   aunpack Eldritch-* -X ~/.local/share/icons/
+   ```
